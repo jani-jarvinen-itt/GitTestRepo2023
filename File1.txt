@@ -1,3 +1,5 @@
 AAAAAAAAAAAAA
 
 Added new line of text.
+
+New line of text using Visual Studio Code.
