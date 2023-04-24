@@ -1,1 +1,3 @@
 BBBBBBBBBBBB
+
+This is one more new code line, this time to File2.
