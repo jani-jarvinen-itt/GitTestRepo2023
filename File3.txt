@@ -1,1 +1,3 @@
 CCCCCCCCCCCCCC
+
+Another line of text to file 3.
