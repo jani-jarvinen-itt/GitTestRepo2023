@@ -1,5 +1,0 @@
-CCCCCCCCCCCCCC
-
-Another line of text to file 3.
-
-New line of text using Visual Studio Code.
