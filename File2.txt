@@ -1,3 +1,5 @@
 BBBBBBBBBBBB
 
 This is one more new code line, this time to File2.
+
+New line of text using Visual Studio Code.
